@@ -1,0 +1,9 @@
+#include<iosream>
+using namespce std;
+
+
+int main()
+{
+	cout<<"11"<<endl;
+	return 0;
+}
